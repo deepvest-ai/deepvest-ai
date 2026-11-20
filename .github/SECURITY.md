@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, please report it privately to help us address it before public disclosure.
 
-**Email:** [support@deepvest.ai](mailto:support@deepvest.ai)
+**Email:** [security@deepvest.ai](mailto:security@deepvest.ai)
 
 ### What to Include
 
